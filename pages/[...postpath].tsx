@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://atlastwo.com/vbzq64q0a?key=a5f93f0df7efa06252ef609e4c5c21ff`
+					`https://wee.so/k1opp`
 				}`,
 			},
 		};
